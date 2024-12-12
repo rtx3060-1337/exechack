@@ -1,0 +1,241 @@
+{
+	"λ UNION HL2RP City17 | БЫСТРАЯ ЗАГРУЗКА λ":{
+		"ip":"37.230.162.62:27015",
+		"banreason":"\n\u0412\u044b \u0431\u044b\u043b\u0438 \u0437\u0430\u0431\u0430\u043d\u0435\u043d\u044b \u043d\u0430 UnionRP C17\n\u041f\u0440\u0438\u0447\u0438\u043d\u0430:\nAC Cheats\n\u0417\u0430\u0431\u0430\u043d\u0438\u043b\n(Console)\n\u041e\u0441\u0442\u0430\u043b\u043e\u0441\u044c:\n(Permaban)\n\u0410\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u044f \/ \u0420\u0430\u0437\u0431\u0430\u043d - f.unionrp.info\n\n textscreens_download=addons\/darkrpmod\/lua\/entities\/sammyservers_textscreen\/cl_init.lua, textscreens_download=addons\/darkrpmod\/lua\/entities\/sammyservers_textscreen\/cl_init.lua, textscreens_download=addons\/darkrpmod\/lua\/entities\/sammyservers_textscreen\/cl_init.lua, textscreens_download=addons\/darkrpmod\/lua\/entities\/sammyservers_textscreen\/cl_init.lua, IGS.nw.PlayerSync=igs\/dependencies\/dash\/nw.lua, SCHat2.Typing=addons\/darkrpmod\/lua\/schat2\/vgui\/cl_basepanel.lua,  Online: 6 minutes"
+	},
+	"🍁 AnimeWorld | Аниме | Обновление | 18+ 🍁":{
+		"ip":"45.136.204.127:27015",
+		"banreason":"banned by Hanako for 1 \u0433\u043e\u0434 (4.7)\n PlyStatusIcons_StatusUpdate=addons\/all\/lua\/psi\/client\/scripts\/status_detection.lua, DrGBasePlayerLuminosity=addons\/drgbase\/lua\/drgbase\/meta\/player.lua, PlyStatusIcons_StatusUpdate=addons\/all\/lua\/psi\/client\/scripts\/status_detection.lua, DrGBasePlayerLuminosity=addons\/drgbase\/lua\/drgbase\/meta\/player.lua, DrGBasePlayerLuminosity=addons\/drgbase\/lua\/drgbase\/meta\/player.lua, KissHelper=302,  Online: 1 minute"
+	},
+	"[RU] [Z] Уютный Сандбокс":{
+		"ip":"194.147.90.105:24222",
+		"banreason":"\u0418\u0433\u0440\u043e\u043a \u0431\u044b\u043b \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\n  Online: 3 minutes"
+	},
+	"RXSEND Breach":{
+		"ip":"5.42.211.10:24215",
+		"nojoin":"true",
+		"banreason":"disconnect: you are banned, reconnect to see the reason. Online: 1 minute"
+	},
+	"🦃EternalNetworks.gg|Custom|Drugs|Nuke|Events|PVP|FastDL|Beta":{
+		"ip":"45.61.170.109:27015",
+		"banreason":"\n--------------- You are banned ---------------\n\nAdmin: CONSOLE\n\nReason:  ==========\/LSAC\/========== No cheaters allowed.\n\nTime left: 4w 2d\n\n OpenPermissions.PermissionsRegistry=addons\/eternalnetworks_gg_custom_content_3224528964\/lua\/openpermissions\/sh.lua, billyserrors=addons\/eternalnetworks_gg_custom_content_3224528964\/lua\/includes\/modules\/billyserrors.lua, GAS.InitPostEntityNetworking=addons\/eternalnetworks_gg_custom_content_3224528964\/lua\/autorun\/gmodadminsuite.lua, SF_W=addons\/eternalnetworks_gg_custom_content_3224528964\/lua\/stormfox2\/framework\/sh_weather_handle.lua, SF_N=addons\/eternalnetworks_gg_custom_content_3224528964\/lua\/stormfox2\/lib\/sh_network.lua, ts_toggletitle=addons\/titlestore_v2\/lua\/titlestore_core\/core\/cl_settings.lua,  Online: 1 minute"
+	},
+	"☁️ Cloud Gaming | M9K | FastDL | Custom | Since 2013":{
+		"ip":"208.103.169.209:27015",
+		"nojoin":"true",
+		"banreason":"Banned by Console  permanently. Reason: Cheating\n Tokens.Rewards=addons\/cloud-gaming-shit\/lua\/cloud-gaming-shit\/plugins\/events\/cl_events.lua, Steam.Reward=addons\/cloud-gaming-shit\/lua\/cloud-gaming-shit\/plugins\/events\/cl_events.lua, CH_Mayor_Net_HUDPaintLoad=addons\/ch_mayor\/lua\/ch_adv_mayor\/client\/ch_mayor_load.lua, nw.PlayerSync=addons\/cloud-gaming-shit\/lua\/cloud-gaming-shit\/cloud-lib\/sh_nw.lua, Mining.Rocks=addons\/cloud-gaming-shit\/lua\/entities\/cg_keypad_cracker\/cl_init.lua,  Online: 1 minute"
+	},
+	"Zoltins Sandbox 💀🎃💀🎃🔪🩸 [Build/Kill]":{
+		"ip":"194.69.160.42:27075",
+		"banreason":"detected"
+	},
+	"полярный медведь 2 | Русский TTT":{
+		"ip":"62.122.215.54:27017",
+		"banreason":"detected"
+	},
+	"▲ [★SG★] [VANILLA PROP HUNT] [NO DOWNLOADS] [NEED STAFF]":{
+		"ip":"208.103.169.108:27024",
+		"banreason":"SAFEDETECT disconnect: \n==========\/sg guard\/==========\nno cheaters allowed..\n Online: 2 minutes"
+	},
+	"🎩 [GER] SCP:RP | Crafting-Update🪵🔬 | Serious | by LOS 🎩":{
+		"ip":"45.157.235.53:27015",
+		"banreason":"SAFEDETECT disconnect: you are banned from the server..\n Online: 1 minute"
+	},
+	"[GER] Kaiserliche Hauptstadt | NEU ":{
+		"ip":"194.69.160.51:27076",
+		"banreason":"SAFEDETECT disconnect: \n\n\t\tyou are banned by: console\n\n\t\treason:  ==========\/lsac\/========== no cheaters allowed.  ==========staff acce Online: 14 minutes"
+	},
+	"Песочница ЪеЪ":{
+		"ip":"46.174.48.228:27015",
+		"banreason":"\n\u041a \u0441\u043e\u0436\u0430\u043b\u0435\u043d\u0438\u044e, \u0432\u0430\u0448 \u0430\u043a\u043a\u0430\u0443\u043d\u0442 \u0431\u044b\u043b \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d \n\u043d\u0430 \u043d\u0430\u0448\u0435\u043c \u0441\u0435\u0440\u0432\u0435\u0440\u0435. \n\n\u041f\u0440\u0438\u0447\u0438\u043d\u0430: \u041f\u043e\u043f\u044b\u0442\u043a\u0430 \u043e\u0431\u0445\u043e\u0434\u0430 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0435\u0439 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u0430. \u041d\u0435 \u043f\u044b\u0442\u0430\u0439\u0442\u0435\u0441\u044c.\n\n\u041e\u0441\u0442\u0430\u043b\u043e\u0441\u044c: (Permaban)\n\n\u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u043e\u0440: (Console)\n\n\nDiscord: https:\/\/sandbox.bebproject.ru\/discord\n\n NET_xdefm_NeedProfile=lua\/autorun\/xdefishmod.lua, WireLib.SyncBinds=addons\/wire\/lua\/wire\/wireshared.lua, PlyStatusIcons_Network=addons\/psi\/lua\/psi\/client\/cl_main.lua, PlyStatusIcons_Network=addons\/psi\/lua\/psi\/client\/scripts\/status_detection.lua, lvs_forced_input_getter=lua\/lvs_framework\/autorun\/lvs_force_directinput.lua, EASY_CHAT_SEND_SERVER_CONFIG=addons\/easychat\/lua\/easychat\/server_config.lua,  Online: 1 minute"
+	},
+	"★ ZARP BHOP - Easy | Levels | Pointshop | Custom":{
+		"ip":"198.244.254.83:27019",
+		"banreason":"CHEATING\n ZARP.Titles.ToggleEnabled=addons\/zarppointshop\/lua\/zarppointshop\/modules\/titles\/cl_titles.lua, ZARPPointshopObjectivesClientReady=addons\/zarppointshop\/lua\/zarppointshop\/modules\/objectives\/cl_objectives.lua, ZARPPointshopDailyLottery_SendAllData=addons\/zarppointshop\/lua\/zarppointshop\/modules\/dailylottery\/cl_lottery.lua, ZARPPointshopClientReady=addons\/zarppointshop\/lua\/zarppointshop\/cl_zarppointshop.lua, ZARPPointshopMaterialPreset=addons\/zarppointshop\/lua\/zarppointshop\/modules\/materials\/cl_materials.lua, ZARPPointshopMaterialClientReady=addons\/zarppointshop\/lua\/zarppointshop\/modules\/materials\/cl_materials.lua,  Online: 1 minute"
+	},
+	"Крутой сендбокс":{
+		"ip":"77.37.244.198:27015",
+		"banreason":"SAFEDETECT disconnect: \n-------=====  \u0411\u0410\u041d  =====-------\n\n---= \u041f\u0440\u0438\u0447\u0438\u043d\u0430 =---\n\n==========\/lsac\/==========\u0411\u0430\u043d \u0437\u0430 \u0447\u0438\u0442\u044b\n\n---= \u041e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0434\u043e \u0440\u0430 Online: 8 minutes"
+	},
+	"λ UNION HL2RP City2 | ОПТИМИЗАЦИЯ λ":{
+		"ip":"46.174.53.204:27015",
+		"banreason":"\n-------=====  \u0417\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d  =====-------\n\u0412\u044b \u0437\u0430\u0431\u0430\u043d\u0435\u043d\u044b \u043d\u0430 Union HL2RP \u04212\n\u0427\u0438\u0442\u0435\u0440\u0430\u0441\u0442 TLG\n\n\u0417\u0430\u0431\u0430\u043d\u0438\u043b\n\u0420\u043e\u043a\u043e\u0432\u0430\u044f \u041a\u043e\u043a\u0435\u0442\u043a\u0430 (STEAM_0:0:7953)\n\n\u041e\u0441\u0442\u0430\u043b\u043e\u0441\u044c\n(Permaban)\n\u0410\u043f\u0435\u043b\u043b\u044f\u0446\u0438\u044f \/ \u0420\u0430\u0437\u0431\u0430\u043d - f.unionrp.info\n\n SCHat2.Typing=addons\/darkrpmodification\/lua\/schat2\/vgui\/cl_basepanel.lua, IGS.nw.PlayerSync=igs\/dependencies\/dash\/nw.lua, textscreens_download=addons\/darkrpmodification\/lua\/entities\/sammyservers_textscreen\/cl_init.lua, voice.StoreHotkey=addons\/darkrpmodification\/lua\/darkrp_modules\/radio\/sh_voice_distance.lua, debug_send_branch=addons\/darkrpmodification\/lua\/autorun\/client\/keypad.lua, DarkRP_preferredjobmodels=gamemodes\/darkrp\/gamemode\/modules\/base\/cl_jobmodels.lua,  Online: 1 minute"
+	},
+	"ZombieLand | Construct's | Stats/Leadboard | FastDL":{
+		"ip":"185.29.166.200:27015",
+		"banreason":"Kicked by Console: no more hacks cuh Online: 1 minute"
+	},
+	"[GER] BetterPVP - PVP / Free for all / Fast DL":{
+		"ip":"5.56.233.22:27015",
+		"banreason":"\n\n\t\tYou are banned by: Console\n\n\t\tReason: Hacking\n\n\t\tYou will be unbanned in: 2 weeks Online: 4 minutes"
+	},
+	"[FR][FR] 🌟 Altyna - DarkRP 🌴 | FastDL | TFA | .gg/altyna":{
+		"ip":"141.11.185.147:27026",
+		"banreason":"Cheating\/Exploiting  - discord.gg\/altyna\n Online: 2 minutes"
+	},
+	"[FR] HoxTown RôlePlay | Semi-RP | Thème USA | FastDL":{
+		"ip":"45.144.196.233:27016",
+		"banreason":"\n\n\t\tYou are banned by: Console\n\n\t\tReason: none\n\n\t\tYou will be unbanned in: never\n  Online: 1 minute"
+	},
+	"[TR] Deneme Sandbox Build/PVP [ACE,E2,PAC3]":{
+		"ip":"Unknown",
+		"banreason":"SAFEDETECT disconnect: \n-------=====  banned  =====-------\n\n---= reason =---\n(none given)\n\n---= time left =---\n(permaban)\n.\n Online: 1 minute"
+	},
+	"🌷🍒 Аниме ШколаРП ⬛⬛⬛ Anime RP 🍒🌷":{
+		"ip":"45.136.205.25:27015",
+		"banreason":"\n\n        \u0412\u0430\u0441 \u0437\u0430\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043b\u0438: Console\n\n        \u041f\u0440\u0438\u0447\u0438\u043d\u0430: \u0415\u0431\u0430\u0442\u044c \u0442\u044b \u0434\u043e\u043b\u0431\u0430\u0435\u0431!\n\n        \u0412\u044b \u0431\u0443\u0434\u0435\u0442\u0435 \u0440\u0430\u0437\u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u0447\u0435\u0440\u0435\u0437: never\n Online: 1 minute"
+	},
+	"[FR]★ Millet ★ | Rôles exclusifs : Voyante, Survivant...":{
+		"ip":"82.67.94.244:27015",
+		"banreason":"SAFEDETECT disconnect: \n-------=====  banni  =====-------\r\n\r\n---= raison =---\r\ncheat\r\n\r\n---= temps restant =---\r\n(permaban)\r\n\r\nune conte Online: 1 minute"
+	},
+	"🧊 IceRP | Вейпы | M9K | Ножи | Банды":{
+		"ip":"185.189.255.108:24234",
+		"banreason":"--------------------\u0422\u044b \u0431\u044b\u043b \u0437\u0430\u0431\u0430\u043d\u0435\u043d!----------------------\n\u041f\u0440\u0438\u0447\u0438\u043d\u0430: Cheats\n\u0410\u0434\u043c\u0438\u043d: Console()\n\u041e\u0441\u0442\u0430\u043b\u043e\u0441\u044c: \u043f\u0435\u0440\u043c\u0430\u043d\u0435\u043d\u0442\n\u0420\u0430\u0437\u0431\u0430\u043d: flame-servers.su\n nt.sendMessage=addons\/zen\/lua\/zen\/lib\/network\/sh_nt.lua, nt.sendMessage=addons\/zen\/lua\/zen\/lib\/network\/sh_nt.lua, rp.CrashScreen.Ping=gamemodes\/darkrp\/gamemode\/modules\/crash_menu\/cl_crash.lua, rp.CrashScreen.Ping=gamemodes\/darkrp\/gamemode\/modules\/crash_menu\/cl_crash.lua, zclib_Player_Initialize=addons\/zlib_zero\/lua\/zclib\/util\/player\/cl_player.lua, fnight_update_moon=gamemodes\/darkrp\/gamemode\/modules\/night\/cl_init.lua,  Online: 1 minute"
+	},
+	"[FR] ⭐ SCP-RP - Cosmos 💎 | SeriousRP | EXCLU | FLUIDE":{
+		"ip":"217.182.21.176:27015",
+		"banreason":"\n\n\t\tYou are banned by: Console\n\n\t\tReason: Bad Hackerz (vj_testentity_runtextsd)\n\n\t\tYou will be unbanned in: never\n BranchLevel=addons\/scp_branch_leveling\/lua\/branch_leveling\/client\/cl_branchlevel.lua, RDV.LIBRARY.PlayerReadyForNetworking=lua\/reality_development\/client\/cl_functions.lua, OpenPermissions.PermissionsRegistry=lua\/openpermissions\/sh.lua, MSD.GetConfigData=addons\/msd_ui\/lua\/msd\/sh_config.lua, guthscp.workaround:sync=lua\/guthscp\/keter\/workaround\/loader.lua, guthscp.filter:sync=lua\/guthscp\/keter\/core\/shared\/filters\/filter.lua,  Online: 2 minutes"
+	},
+	"[GER] Modern Roleplay | VCMod | Inventar | Fast Download":{
+		"ip":"45.157.232.22:27015",
+		"banreason":"SAFEDETECT disconnect: \n du bist gebannt! \r\n\r\nbegr\u00fcndung: hacking\r\n\r\nausf\u00fchrender admin: (console)\r\n\r\nzeit verbleibend: (permaban)\r\n\r\nww Online: 3 minutes"
+	},
+	"🌎 GMod Network | TTT #1 | Inventory | No Download":{
+		"ip":"45.62.160.36:27015",
+		"banreason":"Banned by Loud for 60 years. Reason: Hacking + Slurs :D\n  Online: 36 seconds"
+	},
+	"[FR] Le P'tit Deathrun #1 | Traduit Français | Skins | Fluide ! ":{
+		"ip":"193.34.79.25:63434",
+		"banreason":"\n-------=====  BANNISSEMENT  =====-------\n\n---= Raison =---\nAnticheat autoban, you're not welcome here. appeal on the discord: https:\/\/discord.gg\/qpPaBeFe5C\n\n---= Temps restant =---\n1 week \n\n---= Banni par =---\n(Console)\n\nUne erreur de notre part?  :  https:\/\/discord.gg\/3wjWUf9uQV\n\n  Online: 1 minute"
+	},
+	"► λ lambda.tf  ▌ Stronghold ▌ HyperDL | Unboxing | CS2 Skins | Need Staff":{
+		"ip":"54.37.245.127:27015",
+		"banreason":"LAC Banned from secure servers for cheating\n B0C90xW4ACe=LuaCmd, lambda.motd.accepted=addons\/servercore\/lua\/modules\/motd\/client\/cl_motd.lua, atlaschat.istyping=addons\/chatbox\/lua\/atlaschat\/themes\/default.lua, atlaschat.plload=addons\/chatbox\/lua\/atlaschat\/cl_init.lua,  Time: 1 minute"
+	},
+	"[FR][FR]🍇 BasicRP 🏆 | VIP KDO | DÉBUTANT | RECRUTEMENT":{
+		"ip":"194.69.160.33:27040",
+		"banreason":"\n\n\t\tYou are banned by: Console\n\n\t\tReason: cheat\n\n\t\tYou will be unbanned in: never\n SH_ACC_READY=addons\/sh_accessory_system\/lua\/accessory\/cl_accessory.lua, esclib.RequestConfig=addons\/esclib\/lua\/elib\/essentials\/esc_addons_core.lua, esclib.RequestConfig=addons\/esclib\/lua\/elib\/essentials\/esc_addons_core.lua, ItemStoreSyncInventory=addons\/itemstore\/lua\/itemstore\/cl_player.lua, PlayerJoin=addons\/basicrp_rpname\/lua\/autorun\/client\/cl_rpname.lua, VC_PlayerReady=addons\/vcmod_els_autoupdate\/lua\/vcmod\/client\/load.lua,  Time: 9 minutes"
+	},
+	"🔥Smokes.gg Nukes|Drugs|Bitcoin|Drops|Levels|Mining|PvP":{
+		"ip":"45.45.238.246:27015",
+		"banreason":"\n\n\t\tYou are banned by: \u5df4\u522b\u5854 Blorp (STEAM_0:0:57866236)\n\n\t\tReason: Cheating \/ Hacking - no appeal\n\n\t\tYou will be unbanned in: 6 months\n\nAppeal at: https:\/\/discord.gg\/smokes\n Xenin.RequestConfig=addons\/libary_xen\/lua\/xeninui\/libs\/config\/class.lua,  Time: 59 seconds"
+	},
+	"◕‿◕ TitsRP│Battlepass│High-FPS│Pets│Custom":{
+		"ip":"193.243.190.39:27015",
+		"banreason":"\n\t-------=====  BANNED  =====------\n\n\n\t---= Reason =---\n\tnone\n\n\t---= Time Left =---\n\tnever\n\t\n\t---= Admin =---\n\t(Console)\n\n\n\n\tAppeal @ TitsRP.com\n  Time: 4 minutes"
+	},
+	"► λ lambda.tf  ▌ Bunny Hop (Easy) ▌ HyperDL | Unboxing | CS2 Skins | Need Staff":{
+		"ip":"54.37.245.127:27075",
+		"banreason":"LAC Banned from secure servers for cheating\n  Time: 1 minute"
+	},
+	"[GER] TDM [BETA] by ★ MG ★":{
+		"ip":"45.157.232.23:27045",
+		"banreason":"\n DU BIST GEBANNT! \r\n\r\nBegr\u00fcndung: Hacking\r\n\r\nAusf\u00fchrender Admin: (Console)\r\n\r\nZeit verbleibend: (Permaban)\r\n\r\nwww.modern-gaming.net\n\n "
+	},
+	"★ClassiX Terrortown - Русскоязычный сервер":{
+		"ip":"46.174.55.123:27016",
+		"banreason":"detected"
+	},
+	"★ClassiX Murder - Русскоязычный сервер":{
+		"ip":"46.174.55.123:27015",
+		"banreason":"\u0421\u0442\u0440\u0430\u043d\u043d\u043e\u0435 \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0441\u043a\u0440\u0438\u043f\u0442\u043e\u0432 \u043d\u0430 \u0441\u0435\u0440\u0432\u0435\u0440\u0435. \u0421\u043e\u043e\u0431\u0449\u0438\u0442\u0435, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043e\u0431 \u044d\u0442\u043e\u043c \u0432 \u0442\u0438\u043a\u0435\u0442 \u043d\u0430 \u043d\u0430\u0448\u0435\u043c \u0441\u0430\u0439\u0442\u0435: https:\/\/gmod-classix.ru\/index.php?t=tickets.\n SH_REPORTS.PlayerReady=addons\/sh_reports\/lua\/reports\/lib_easynet.lua, VoidCases_RequestConfigData=addons\/cx-cases\/lua\/voidcases\/sh_config.lua, VoidCases_RequestInventory=addons\/cx-cases\/lua\/voidcases\/cl_inventory.lua, SCB.IsTyping=addons\/scb\/lua\/scb\/cl_overrides.lua, TalkIconChat=addons\/talk-icon\/lua\/autorun\/talkicon.lua, SCB.IsTyping=addons\/scb\/lua\/scb\/cl_overrides.lua,  Time: 2 minutes"
+	},
+	"★ClassiX PropHunt - Русскоязычный сервер":{
+		"ip":"95.165.140.109:27018",
+		"banreason":"be gone, cheater!\n pac_update_playerfilter=addons\/pac3\/lua\/pac3\/editor\/client\/wear_filter.lua, "
+	},
+	"★▶ Velkon Gaming #3 | Official Inventory | velk.ca":{
+		"ip":"208.103.169.56:27027",
+		"banreason":"detected"
+	},
+	"★▶ Velkon Gaming MC #2 | 24/7 Minecraft | velk.ca":{
+		"ip":"208.103.169.54:27016",
+		"banreason":"detected"
+	},
+	"🌟★▶ Velkon Gaming #1":{
+		"ip":"45.62.160.43:27015",
+		"banreason":"Banned by Console permanently. Reason: Cheating\n moat.verify=addons\/moat_addons\/lua\/plugins\/moat\/modules\/anticheat\/client\/mac.lua"
+	},
+	"►No Cancer RP |FastDL|M9K|Bitminers|Gambling|Drugs|Wire|Unbox":{
+		"ip":"208.103.169.168:27015",
+		"banreason":"detected"
+	},
+	"★ Perpheads.com | Serious City RP | Fully Custom | Since 2013":{
+		"ip":"208.103.169.211:27015",
+		"nojoin":"true",
+		"banreason":"detected"
+	},
+	"PostBellum HL2 RP | Русский Half-Life 2 Roleplay":{
+		"ip":"212.22.85.2:27015",
+		"banreason":"lua problems"
+	},
+	"Tokyo RP | Машины | Аниме":{
+		"onlyinfo":"used alternative run method",
+		"runmethod":"Alternative method"
+	},
+	"Tokyo RP #2 | Аниме | Быстрая загрузка":{
+		"onlyinfo":"used alternative run method",
+		"runmethod":"Alternative method"
+	},
+	"Русский FastRP #1 [Быстрая загрузка][M9K]":{
+		"onlyinfo":"used alternative run method",
+		"runmethod":"Alternative method"
+	},
+	"Русский FastRP #2 [Быстрая загрузка][M9K]":{
+		"onlyinfo":"used alternative run method",
+		"runmethod":"Alternative method"
+	},
+	"Русский FastRP #3 [Быстрая загрузка][M9K]":{
+		"onlyinfo":"used alternative run method",
+		"runmethod":"Alternative method"
+	},
+	"badcringeluax":{
+		"onlyinfo":"1",
+		"luas":{
+			"addons/zarp anticheat/lua/cl_zarpanticheat.lua":true,
+			"addons/antiinject/lua/autorun/client/haha_funny_joke.lua":true,
+			"addons/[mst]_light_anticheat/lua/autorun/client/haha_funny_joke.lua":true,
+			"gamemodes/darkrp/gamemode/core/somemodules/system_anticheat/init_cl.lua":true,
+			"lua/autorun/client/fl_ac.lua":true,
+			"gamemodes/rust/gamemode/modules/dac/modules/misc/jitcheck_cl.lua":true,
+			"gamemodes/rust/gamemode/modules/dac/modules/antigrab/antigrab_cl.lua":true,
+			"gamemodes/rust/gamemode/modules/dac/modules/antigrab/antimenu_cl.lua":true,
+			"addons/_smallscripts/lua/autorun/client/cl_anticheat.lua":true,
+			"addons/[stalker-rp] optimisation/lua/autorun/client/fuckingshit.lua":true,
+			"gamemodes/stalker_online/entities/entities/anomaly_voronka/cl_init.lua":true,
+			"lua/autorun/client/surface_misc.lua":true,
+			"addons/bhop_ac-main/lua/bhop_ac/cl_bash.lua":true,
+			"addons/_shylib/lua/protect/otherprotection/hookprtct_cl.lua":true,
+			"addons/a/lua/autorun/client/foreign_detect.lua":true,
+			"addons/execute/lua/execute/cl_execute.lua":true,
+			"addons/anticheat/lua/autorun/client/ac.lua":true,
+			"addons/dgbase2/lua/addons/funnies/cl_hahayes.lua":true,
+			"addons/argon_anticheat/lua/ac/scrngrabber/cl_scrngrabber.lua":true,
+			"gamemodes/rp_base/gamemode/core/somemodules/ac/init_cl.lua":true,
+			"addons/anticheat_retax/lua/autorun/client/cl_antinexploits.lua":true,
+			"gamemodes/darkrp/gamemode/modules/anticheat/sh_antiobkak.lua":true,
+			"addons/sis_gaf/lua/autorun/client/cl_gaf_obkakrun.lua":true,
+			"addons/!core_cheat/lua/autorun/client/cl_skibidisenwai.lua":true,
+			"addons/sis_gaf/lua/autorun/client/cl_gaf.lua":true,
+			"addons/simple_ac/lua/simple_ac/modules/cl_trigger.lua":true,
+			"gamemodes/sgs-base/gamemode/cl_sac.lua":true,
+			"gamemodes/rust/gamemode/mods/anticheat/ac_cl.lua":true,
+			"gamemodes/rust/gamemode/mods/anticheat/modules/luacheck/luacheck_cl.lua":true,
+			"deathrun_ac/lua/autorun/bash2_anticheat.lua":true,
+			"addons/wobikal-security/lua/wobspace/modules/security/exechack/shared.lua":true,
+			"addons/shenhyi_antiexploit/lua/autorun/client/haha_funny_joke.lua":true,
+			"addons/0000a/lua/0000ac/client/cl_init.lua":true,
+			"addons/atomic-ac/lua/rotac/client/menu7.lua":true,
+			"addons/__argon_anticheat/lua/ac/relay/cl_relaymk2.lua":true,
+			"addons/!lpakr_out/gamemodes/rp_base/gamemode/core/2112/system_antiglualoader/init_cl.lua":true
+		}
+	},
+	"example":{
+		"ip":"46.174.51.145:27015",
+		"banreason":"possible detect by anticheat",
+		"nocan":"true",
+		"onlyinfo":"obkak",
+		"runmethod":"Alternative method"
+	}
+}
